@@ -1,0 +1,165 @@
+DESCRIPTION,CSV_FIELD,DBF_FIELD,DATA_TYPE,MAX_SIZE
+Census Block Geocode,BLOCK20,BLOCK20,A/N,15
+Census Block Group Geocode,BLKGRP20,BLKGRP20,A/N,12
+Census Tract Geocode,TRACT20,TRACT20,A/N,11
+County (FIPS),COUNTY20,COUNTY20,A/N,3
+Place (FIPS),PLACE20,PLACE20,A/N,5
+Summary Level,SUMLEV,SUMLEV,A/N,3
+Total,Population P2,P0020001,N,5
+Total!!Hispanic or Latino,Hispanic Origin,P0020002,N,5
+Total!!Not Hispanic or Latino,Not Hispanic,P0020003,N,5
+Total!!Not Hispanic or Latino!!Population of one race,NH_1 Race,P0020004,N,5
+Total!!Not Hispanic or Latino!!Population of one race!!White alone,NH_Wht,P0020005,N,5
+Total!!Not Hispanic or Latino!!Population of one race!!Black or African American alone,NH_Blk,P0020006,N,5
+Total!!Not Hispanic or Latino!!Population of one race!!American Indian and Alaska Native alone,NH_Ind,P0020007,N,5
+Total!!Not Hispanic or Latino!!Population of one race!!Asian alone,NH_Asn,P0020008,N,5
+Total!!Not Hispanic or Latino!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,NH_Hwn,P0020009,N,5
+Total!!Not Hispanic or Latino!!Population of one race!!Some Other Race alone,NH_Oth,P0020010,N,5
+Total!!Not Hispanic or Latino!!Population of two or more races,NH_2+ Races,P0020011,N,5
+Total!!Not Hispanic or Latino!!Population of two races,NH_2 Races,P0020012,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!White; Black or African American,NH_WhtBlk,P0020013,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!White; American Indian and Alaska Native,NH_WhtInd,P0020014,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!White; Asian,NH_WhtAsn,P0020015,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,NH_WhtHwn,P0020016,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!White; Some Other Race,NH_WhtOth,P0020017,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!Black or African American; American Indian and Alaska Native,NH_BlkInd,P0020018,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!Black or African American; Asian,NH_BlkAsn,P0020019,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,NH_BlkHwn,P0020020,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!Black or African American; Some Other Race,NH_BlkOth,P0020021,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!American Indian and Alaska Native; Asian,NH_IndAsn,P0020022,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,NH_IndHwn,P0020023,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!American Indian and Alaska Native; Some Other Race,NH_IndOth,P0020024,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,NH_AsnHwn,P0020025,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!Asian; Some Other Race,NH_AsnOth,P0020026,N,5
+Total!!Not Hispanic or Latino!!Population of two races!!Native Hawaiian and Other Pacific Islander; Some Other Race,NH_HwnOth,P0020027,N,5
+Total!!Not Hispanic or Latino!!Population of three races,NH_3 Races,P0020028,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; Black or African American; American Indian and Alaska Native,NH_WhtBlkInd,P0020029,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; Black or African American; Asian,NH_WhtBlkAsn,P0020030,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; Black or African American; Native Hawaiian and Other Pacific Islander,NH_WhtBlkHwn,P0020031,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; Black or African American; Some Other Race,NH_WhtBlkOth,P0020032,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; American Indian and Alaska Native; Asian,NH_WhtIndAsn,P0020033,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,NH_WhtIndHwn,P0020034,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; American Indian and Alaska Native; Some Other Race,NH_WhtIndOth,P0020035,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,NH_WhtAsnHwn,P0020036,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; Asian; Some Other Race,NH_WhtAsnOth,P0020037,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_WhtHwnOth,P0020038,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!Black or African American; American Indian and Alaska Native; Asian,NH_BlkIndAsn,P0020039,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,NH_BlkIndHwn,P0020040,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!Black or African American; American Indian and Alaska Native; Some Other Race,NH_BlkIndOth,P0020041,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,NH_BlkAsnHwn,P0020042,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!Black or African American; Asian; Some Other Race,NH_BlkAsnOth,P0020043,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_BlkHwnOth,P0020044,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,NH_IndAsnHwn,P0020045,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!American Indian and Alaska Native; Asian; Some Other Race,NH_IndAsnOth,P0020046,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_IndHwnOth,P0020047,N,5
+Total!!Not Hispanic or Latino!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_AsnHwnOth,P0020048,N,5
+Total!!Not Hispanic or Latino!!Population of four races,NH_4 Races,P0020049,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Asian,NH_WhtBlkIndAsn,P0020050,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,NH_WhtBlkIndHwn,P0020051,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Some Other Race,NH_WhtBlkIndOth,P0020052,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,NH_WhtBlkAsnHwn,P0020053,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; Asian; Some Other Race,NH_WhtBlkAsnOth,P0020054,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_WhtBlkHwnOth,P0020055,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,NH_WhtIndAsnHwn,P0020056,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; American Indian and Alaska Native; Asian; Some Other Race,NH_WhtIndAsnOth,P0020057,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_WhtIndHwnOth,P0020058,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_WhtAsnHwnOth,P0020059,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,NH_BlkIndAsnHwn,P0020060,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Some Other Race,NH_BlkIndAsnOth,P0020061,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_BlkIndHwnOth,P0020062,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_BlkAsnHwnOth,P0020063,N,5
+Total!!Not Hispanic or Latino!!Population of four races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_IndAsnHwnOth,P0020064,N,5
+Total!!Not Hispanic or Latino!!Population of five races,NH_5 Races,P0020065,N,5
+Total!!Not Hispanic or Latino!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,NH_WhtBlkIndAsnHwn,P0020066,N,5
+Total!!Not Hispanic or Latino!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race,NH_WhtBlkIndAsnOth,P0020067,N,5
+Total!!Not Hispanic or Latino!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_WhtBlkIndHwnOth,P0020068,N,5
+Total!!Not Hispanic or Latino!!Population of five races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_WhtBlkAsnHwnOth,P0020069,N,5
+Total!!Not Hispanic or Latino!!Population of five races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_WhtIndAsnHwnOth,P0020070,N,5
+Total!!Not Hispanic or Latino!!Population of five races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_BlkIndAsnHwnOth,P0020071,N,5
+Total!!Not Hispanic or Latino!!Population of six races,NH_6 Races,P0020072,N,5
+Total!!Not Hispanic or Latino!!Population of six races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH_WhtBlkIndAsnHwnOth,P0020073,N,5
+Total population 18 years and over!!Total,18+_Population P4,P0040001,N,5
+Total population 18 years and over!!Hispanic or Latino,H18+_Pop,P0040002,N,5
+Total population 18 years and over!!Not Hispanic or Latino,NH18+_Pop,P0040003,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of one race,NH18+_1 Race,P0040004,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of one race!!White alone,NH18+_Wht,P0040005,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of one race!!Black or African American alone,NH18+_Blk,P0040006,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of one race!!American Indian and Alaska Native alone,NH18+_Ind,P0040007,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of one race!!Asian alone,NH18+_Asn,P0040008,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of one race!!Native Hawaiian and Other Pacific Islander alone,NH18+_Hwn,P0040009,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of one race!!Some Other Race alone,NH18+_Oth,P0040010,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two or more races,NH18+_2+ Races,P0040011,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races,NH18+_2 Races,P0040012,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!White; Black or African American,NH18+_WhtBlk,P0040013,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!White; American Indian and Alaska Native,NH18+_WhtInd,P0040014,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!White; Asian,NH18+_WhtAsn,P0040015,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!White; Native Hawaiian and Other Pacific Islander,NH18+_WhtHwn,P0040016,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!White; Some Other Race,NH18+_WhtOth,P0040017,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!Black or African American; American Indian and Alaska Native,NH18+_BlkInd,P0040018,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!Black or African American; Asian,NH18+_BlkAsn,P0040019,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!Black or African American; Native Hawaiian and Other Pacific Islander,NH18+_BlkHwn,P0040020,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!Black or African American; Some Other Race,NH18+_BlkOth,P0040021,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!American Indian and Alaska Native; Asian,NH18+_IndAsn,P0040022,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,NH18+_IndHwn,P0040023,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!American Indian and Alaska Native; Some Other Race,NH18+_IndOth,P0040024,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!Asian; Native Hawaiian and Other Pacific Islander,NH18+_AsnHwn,P0040025,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!Asian; Some Other Race,NH18+_AsnOth,P0040026,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of two races!!Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_HwnOth,P0040027,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races,NH18+_3 Races,P0040028,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; Black or African American; American Indian and Alaska Native,NH18+_WhtBlkInd,P0040029,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; Black or African American; Asian,NH18+_WhtBlkAsn,P0040030,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; Black or African American; Native Hawaiian and Other Pacific Islander,NH18+_WhtBlkHwn,P0040031,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; Black or African American; Some Other Race,NH18+_WhtBlkOth,P0040032,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; American Indian and Alaska Native; Asian,NH18+_WhtIndAsn,P0040033,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,NH18+_WhtIndHwn,P0040034,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; American Indian and Alaska Native; Some Other Race,NH18+_WhtIndOth,P0040035,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; Asian; Native Hawaiian and Other Pacific Islander,NH18+_WhtAsnHwn,P0040036,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; Asian; Some Other Race,NH18+_WhtAsnOth,P0040037,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!White; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_WhtHwnOth,P0040038,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!Black or African American; American Indian and Alaska Native; Asian,NH18+_BlkIndAsn,P0040039,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,NH18+_BlkIndHwn,P0040040,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!Black or African American; American Indian and Alaska Native; Some Other Race,NH18+_BlkIndOth,P0040041,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander,NH18+_BlkAsnHwn,P0040042,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!Black or African American; Asian; Some Other Race,NH18+_BlkAsnOth,P0040043,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_BlkHwnOth,P0040044,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,NH18+_IndAsnHwn,P0040045,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!American Indian and Alaska Native; Asian; Some Other Race,NH18+_IndAsnOth,P0040046,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_IndHwnOth,P0040047,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of three races!!Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_AsnHwnOth,P0040048,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races,NH18+_4 Races,P0040049,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Asian,NH18+_WhtBlkIndAsn,P0040050,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,NH18+_WhtBlkIndHwn,P0040051,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; American Indian and Alaska Native; Some Other Race,NH18+_WhtBlkIndOth,P0040052,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,NH18+_WhtBlkAsnHwn,P0040053,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; Asian; Some Other Race,NH18+_WhtBlkAsnOth,P0040054,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_WhtBlkHwnOth,P0040055,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,NH18+_WhtIndAsnHwn,P0040056,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; American Indian and Alaska Native; Asian; Some Other Race,NH18+_WhtIndAsnOth,P0040057,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_WhtIndHwnOth,P0040058,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_WhtAsnHwnOth,P0040059,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,NH18+_BlkIndAsnHwn,P0040060,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!Black or African American; American Indian and Alaska Native; Asian; Some Other Race,NH18+_BlkIndAsnOth,P0040061,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_BlkIndHwnOth,P0040062,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_BlkAsnHwnOth,P0040063,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of four races!!American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_IndAsnHwnOth,P0040064,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of five races,NH18+_5 Races,P0040065,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,NH18+_WhtBlkIndAsnHwn,P0040066,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race,NH18+_WhtBlkIndAsnOth,P0040067,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of five races!!White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_WhtBlkIndHwnOth,P0040068,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of five races!!White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_WhtBlkAsnHwnOth,P0040069,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of five races!!White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_WhtIndAsnHwnOth,P0040070,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of five races!!Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_BlkIndAsnHwnOth,P0040071,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of six races,NH18+_6 Races,P0040072,N,5
+Total population 18 years and over!!Not Hispanic or Latino!!Population of six races!!White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,NH18+_WhtBlkIndAsnHwnOth,P0040073,N,5
+DOJ Tabulation!!Total Population!!Not Hispanic or Latino!!Black or African American: Black or African American alone + White AND Black or African American,DOJ_NH_Blk,DOJ_BlkPop,N,5
+DOJ Tabulation!!Total Population!!Not Hispanic or Latino!!American Indian and Alaska Native: American Indian and Alaska Native alone + White AND American Indian and Alaska Native,DOJ_NH_Ind,DOJ_IndPop,N,5
+DOJ Tabulation!!Total Population!!Not Hispanic or Latino!!Asian: Asian alone + White AND Asian,DOJ_NH_Asn,DOJ_AsnPop,N,5
+DOJ Tabulation!!Total Population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander: Native Hawaiian and Other Pacific Islander alone + White AND Native Hawaiian and Other Pacific Islander,DOJ_NH_Hwn,DOJ_HwnPop,N,5
+DOJ Tabulation!!Total Population!!Not Hispanic or Latino!!Some Other Race: Some Other Race alone + White AND Some Other Race,DOJ_NH_Oth,DOJ_OthPop,N,5
+DOJ Tabulation!!Total Population!!Not Hispanic or Latino!!Balance of individuals reporting more than one race: Population of two or more races - (White AND Black or African American + White AND American Indian and Alaska Native + White AND Asian + White AND Native Hawaiian and Other Pacific Islander + White AND Some Other Race),DOJ_NH_OthMR,DOJ_BMRPop,N,5
+DOJ Tabulation!!Total Population 18 years and over!!Not Hispanic or Latino!!Black or African American Population: Black or African American alone + White AND Black or African American,DOJ_NH18+_Blk,DOJ_BlkVAP,N,5
+DOJ Tabulation!!Total Population 18 years and over!!Not Hispanic or Latino!!American Indian and Alaska Native Population: American Indian and Alaska Native alone + White AND American Indian and Alaska Native,DOJ_NH18+_Ind,DOJ_IndVAP,N,5
+DOJ Tabulation!!Total Population 18 years and over!!Not Hispanic or Latino!!Asian Population: Asian alone + White AND Asian,DOJ_NH18+_Asn,DOJ_AsnVAP,N,5
+DOJ Tabulation!!Total Population 18 years and over!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander: Native Hawaiian and Other Pacific Islander alone + White AND Native Hawaiian and Other Pacific Islander,DOJ_NH18+_Hwn,DOJ_HwnVAP,N,5
+DOJ Tabulation!!Total Population 18 years and over!!Not Hispanic or Latino!!Some Other Race: Some Other Race alone + White AND Some Other Race,DOJ_NH18+_Oth,DOJ_OthVAP,N,5
+DOJ Tabulation!!Total Population 18 years and over!!Not Hispanic or Latino!!Balance of individuals reporting more than one race: Population of two or more races - (White AND Black or African American + White AND American Indian and Alaska Native + White AND Asian + White AND Native Hawaiian and Other Pacific Islander + White AND Some Other Race),DOJ_NH18+_OthMR,DOJ_BMRVAP,N,5
