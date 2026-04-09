@@ -1,0 +1,1 @@
+Note: The file tl_2025_06_tabblock20.zip needs to be downloaded directly from https://www2.census.gov/geo/tiger/TIGER_RD18/STATE/06_CALIFORNIA/06/ and placed in the Data folder, as it is too large to upload to Github.
