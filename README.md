@@ -1,1 +1,3 @@
-Note: The file tl_2025_06_tabblock20.zip needs to be downloaded directly from https://www2.census.gov/geo/tiger/TIGER_RD18/STATE/06_CALIFORNIA/06/ and placed in the Data folder, as it is too large to upload to Github.
+This project is based on the reports and data from the Data Redistricting Hub. Visualizations are based on RDH's report on Virginia's 2021 Redistricting Cycle.
+
+All data can be found at https://redistrictingdatahub.org/
